@@ -1,8 +1,16 @@
-# Biscuit
-
-A minimal fish shell prompt.
-
-![Screenshot](https://imgur.com/u4VgkY7.png)
+<div align="center">
+  <div>
+    <h1>Biscut</h1>
+    <p>a minimal fish shell prompt.</p>
+    <img src="https://img.shields.io/github/license/projekt0n/biscuit?style=for-the-badge">
+    <img src="https://img.shields.io/github/watchers/projekt0n/biscuit?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/projekt0n/biscuit?style=for-the-badge">
+    <img src="https://img.shields.io/github/directory-file-count/projekt0n/biscuit?style=for-the-badge">
+    </div>
+    <img src="https://imgur.com/u4VgkY7.png">
+  </div>
+</div>
+<br>
 
 ### Dependencies
 
@@ -14,7 +22,7 @@ A minimal fish shell prompt.
 ```fish
 fisher install projekt0n/biscuit
 ```
-
+To install fisher. follow the installation guide for fisher ![here](https://github.com/jorgebucaran/fisher) in the fisher repo.
 ## Copying
 
 This project is released under the terms of the GPLv3 license.
