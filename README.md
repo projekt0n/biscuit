@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h1>Biscut</h1>
+    <h1>Biscuit</h1>
     <p>a minimal fish shell prompt.</p>
     <img src="https://img.shields.io/github/license/projekt0n/biscuit?style=for-the-badge">
     <img src="https://img.shields.io/github/watchers/projekt0n/biscuit?style=for-the-badge">
