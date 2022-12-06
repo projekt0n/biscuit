@@ -2,7 +2,7 @@
 
 A minimal fish shell prompt.
 
-![Screenshot](https://imgur.com/u4VgkY7.png)
+![Screenshot](https://i.imgur.com/sLIjySm.png)
 
 ### Dependencies
 
