@@ -52,5 +52,5 @@ function fish_prompt
       prompt_segment brmagenta black $cur_dir
   end
 
-  echo -n " "
+  echo -n " " \ueabc " "
 end
