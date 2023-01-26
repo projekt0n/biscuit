@@ -15,6 +15,17 @@ A minimal fish shell prompt.
 fisher install projekt0n/biscuit
 ```
 
+#### Configuration
+
+#### Displaying the Current Git Branch
+
+To display the current Git branch in the command prompt, set the `biscuit_show_branch_name` variable in the `config.fish` file located in the `$__fish_config_dir` directory.
+
+```fish
+set biscuit_show_branch_name 1
+# ...
+```
+
 ## Copying
 
 This project is released under the terms of the GPLv3 license.
